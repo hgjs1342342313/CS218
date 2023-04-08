@@ -1,9 +1,9 @@
 # CS218
-Coding solutions of CS218
-二刀流的剑客
-Python & C++
-哪个写得快用哪个
-孙老师教教我算法
-我喜欢煎蛋卷
-有没有offer
-碎碎念
+Coding solutions of CS218<\br>
+二刀流的剑客<\br>
+Python & C++<\br>
+哪个写得快用哪个<\br>
+孙老师教教我算法<\br>
+我喜欢煎蛋卷<\br>
+有没有offer<\br>
+碎碎念<\br>
